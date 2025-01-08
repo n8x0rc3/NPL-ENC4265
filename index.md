@@ -3,9 +3,7 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
-
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
+I have a strong foundation in computer science, with experience gained through numerous coding classes, database management, and IT courses since middle school. My main programming experience includes building a website using HTML and CSS, completing beginner projects in C, and regularly using the command line and Linux terminal for learning and experimentation. I am skilled at leveraging the internet to learn and implement new technologies and programming languages, with a basic understanding of how programming integrates into various systems. Additionally, I have hands-on experience building several computers from individual components and am highly proficient in AI and prompt engineering, enabling me to optimize and adapt cutting-edge technologies effectively. Outside of my technical pursuits, I am a cheerleader at UCF and actively participate in community engagement initiatives, further demonstrating my strong communication and teamwork skills.
 
 [Start Here instructional page for copying this website](starthere.md)
 <center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
