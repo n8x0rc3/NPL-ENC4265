@@ -25,10 +25,6 @@ I am a tech enthusiast with a solid foundation in computer science, gained throu
 ### **Beyond Tech**  
 Outside of my technical pursuits, I am a **cheerleader at UCF** and actively participate in **community engagement initiatives**, showcasing strong communication and teamwork skills.
 
-<div align="center">
-  <img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg" alt="Avatar Image" style="width: 60%; border-radius: 15px;">
-</div>
-
 ---
 
 ### **Explore My Work**
