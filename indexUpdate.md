@@ -5,20 +5,25 @@
 # Welcome to My Digital Portfolio 🎉
 
 ## About Me  
-I am passionate about computer science, with a strong foundation built through numerous coding classes, database management, and IT courses since middle school.  
+I am a tech enthusiast with a solid foundation in computer science, gained through years of coding classes, database management, and IT courses. While still exploring my specific career path, I am fully immersed in the tech field and committed to continuous learning.  
 
-### **My Expertise**  
-- **Programming Skills**:  
-  - Built a website using **HTML** and **CSS**.  
-  - Completed beginner projects in **C** programming.  
-  - Regularly use the **Linux terminal** and command line for experimentation.  
-- **Tech Knowledge**:  
-  - Skilled at learning and applying new technologies using online resources.  
-  - Hands-on experience building custom computers from components.  
-  - Proficient in **AI** and **prompt engineering**, optimizing cutting-edge technologies effectively.  
+### **My Areas of Interest**  
+- **Cybersecurity**:  
+  - Actively engaged in hands-on training through **TryHackMe**, honing my cybersecurity skills.  
+- **Network Engineering**:  
+  - Exploring the design and implementation of reliable network infrastructures.  
+- **Cloud Infrastructure**:  
+  - Fascinated by scalable systems and eager to dive deeper into **cloud computing** technologies.  
+
+### **My Skills**  
+- Built websites using **HTML** and **CSS**.  
+- Completed beginner projects in **C** programming.  
+- Experienced in using the **Linux terminal** for experimentation and learning.  
+- Hands-on experience building custom computers from individual components.  
+- Proficient in **AI** and **prompt engineering**, optimizing cutting-edge technologies effectively.  
 
 ### **Beyond Tech**  
-Outside of technical pursuits, I am a **cheerleader at UCF** and actively participate in **community engagement initiatives**, showcasing strong communication and teamwork skills.
+Outside of my technical pursuits, I am a **cheerleader at UCF** and actively participate in **community engagement initiatives**, showcasing strong communication and teamwork skills.
 
 <div align="center">
   <img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg" alt="Avatar Image" style="width: 60%; border-radius: 15px;">
@@ -36,6 +41,6 @@ Outside of technical pursuits, I am a **cheerleader at UCF** and actively partic
 ---
 
 ## Contact Me  
-Feel free to reach out if you’d like to collaborate or learn more about my work!  
-📧 **Email**: [youremail@example.com](mailto:youremail@example.com)  
-📞 **Phone**: (123) 456-7890  
+Feel free to reach out if you’d like to collaborate or discuss tech!  
+📧 **Email**: [na026989@ucf.edu](mailto:na026989@ucf.edu)  
+
