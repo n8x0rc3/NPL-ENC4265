@@ -27,8 +27,11 @@ Outside of my technical pursuits, I am a **cheerleader at UCF** and actively par
 ---
 
 ### **Explore My Work**
-- [Deliverables](deliverables.md): The core assignments of ENC4265.
 - [Reflective Blogs](reflective_blogs.md): Personal reflections on my learning journey.
+- [Manual Assessment Memo](manual_assessment_memo.md): Insights into my manual assessments.
+- [Chatbot](chatbot.md): Details of my chatbot project.
+- [Procedure Video](procedure_video.md): Step-by-step procedure video.
+- [Manual](manual.md): Comprehensive technical manual.
 
 ---
 
