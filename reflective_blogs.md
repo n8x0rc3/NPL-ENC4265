@@ -39,7 +39,7 @@ Looking at the site now is shocking because it seems like the websites back then
 4. Tap **Install** (Android) or **Get** (iPhone) to download the app.  
 
 *Figure 1. Search for Instagram in the App Store.*  
-![Search for Instagram in the App Store](Instagram-Search.png)  
+![Search for Instagram in the App Store](Instagram-Search.PNG)  
 
 #### Step 2: Open Instagram and Sign Up  
 1. Tap the **Instagram icon** on your home screen to open the app.  
@@ -48,7 +48,7 @@ Looking at the site now is shocking because it seems like the websites back then
 4. Create a username and password, then tap **Next**.  
 
 *Figure 2. Instagram sign-up screen.*  
-![Instagram sign-up screen](path_to_figure2_image.png)  
+![Instagram sign-up screen](Instagram-Sign-In.PNG)  
 
 #### Step 3: Complete Your Profile  
 1. Tap **Add Profile Photo** to upload a picture from your phone (optional).  
@@ -56,7 +56,7 @@ Looking at the site now is shocking because it seems like the websites back then
 3. Tap **Done** to finish setup.  
 
 *Figure 3. Profile setup screen.*  
-![Profile setup screen](path_to_figure3_image.png)  
+![Profile setup screen](Instagram-Edit-Profile.PNG)  
 
 #### Step 4: Start Using Instagram  
 - **Home Screen**: Scroll to see posts from accounts you follow.  
