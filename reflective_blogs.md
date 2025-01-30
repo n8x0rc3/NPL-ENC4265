@@ -39,7 +39,7 @@ Looking at the site now is shocking because it seems like the websites back then
 4. Tap **Install** (Android) or **Get** (iPhone) to download the app.  
 
 *Figure 1. Search for Instagram in the App Store.*  
-![Search for Instagram in the App Store](path_to_figure1_image.png)  
+![Search for Instagram in the App Store](Instagram-Search.png)  
 
 #### Step 2: Open Instagram and Sign Up  
 1. Tap the **Instagram icon** on your home screen to open the app.  
