@@ -170,7 +170,7 @@ Cybersecurity is a shared responsibility. By staying alert, you help protect you
 
 ## Tools Used
 
-ChatGPT-4o Model used as the generative AI tested. The promopt and revisions are above 
+ChatGPT-4o model used as the generative AI tested. The prompt and revisions are above.
 
 ---
 # Reflective Blog 5  
