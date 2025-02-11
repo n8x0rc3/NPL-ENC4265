@@ -4,7 +4,12 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
-   
+4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
+8. [Reflective Blog 8](#reflective-blog-8)
+
 # Wayback Analysis
 
 ## Analysis of YouTube's 2005 Website
@@ -18,10 +23,10 @@ The 2005 YouTube homepage feels super basic compared to today. The layout has si
 - **Static Design**: The layout doesn’t adapt to different screen sizes, which would feel unusable on a phone or tablet today.  
 
 ### 3. Modern Standards vs. Then  
-Today’s websites are polished, responsive, and filled with dynamic content. I open YouTube and expect personalized video recommendations, seamless playback, and an easy-to-navigate layout. This old version feels clunky and sterile compared to the YouTube I know now. Its so streamlined that unless I had something specific in mind I can just open YouTube and have hours of content I like displayed to me without having to search for something. 
+Today’s websites are polished, responsive, and filled with dynamic content. I open YouTube and expect personalized video recommendations, seamless playback, and an easy-to-navigate layout. This old version feels clunky and sterile compared to the YouTube I know now. It's so streamlined that unless I had something specific in mind, I can just open YouTube and have hours of content I like displayed to me without having to search for something.  
 
 ### 4. Overall Experience  
-Looking at the site now is shocking because it seems like the websites back then were super functional. It was home, menu, and whatever the site provided. I enjoy the modern touch and seamless design of modern day websites, but the old school websites really do have a fun retro feel. They remind me of hacker tutorial websites, or cyberpages where the information can be insane but its delivered in a functional feel. 
+Looking at the site now is shocking because it seems like the websites back then were super functional. It was home, menu, and whatever the site provided. I enjoy the modern touch and seamless design of modern-day websites, but the old-school websites really do have a fun retro feel. They remind me of hacker tutorial websites or cyberpages where the information can be insane but is delivered in a functional feel.  
 
 ---
 # Quick Start Guide
@@ -76,5 +81,25 @@ Instagram is a social media platform for sharing photos, videos, and stories. Th
 # Reflective Blog 3  
 TBD  
 
+---
+# Reflective Blog 4  
+TBD  
+
+---
+# Reflective Blog 5  
+TBD  
+
+---
+# Reflective Blog 6  
+TBD  
+
+---
+# Reflective Blog 7  
+TBD  
+
+---
+# Reflective Blog 8  
+TBD  
+
 ## AI DISCLAIMER  
-Some text edited by ChatGPT 4o Model + Deepseek R1 model
+Some text edited by ChatGPT 4o Model.
