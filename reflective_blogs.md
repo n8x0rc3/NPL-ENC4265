@@ -116,7 +116,61 @@ The initial response was too detailed for the 'shorter is better' model, so I re
 
 ---
 # Reflective Blog 4  
-TBD  
+
+## Prompt
+
+Prompt C: Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated
+
+## Response
+
+Original Prompt:
+"Generate a professional email educating employees about phishing attacks. The email should be clear, concise, and include examples of common phishing attempts, warning signs, and best practices for avoiding them."
+
+Revised Prompt:
+"Generate a professional yet engaging phishing awareness email for employees. Use a friendly and clear tone. Include bullet points for key takeaways, a short real-world example of a phishing email, and a direct call to action (e.g., 'Report suspicious emails to IT'). Avoid passive voice and ensure it remains concise."
+
+Assessment:
+The first version was informative but too formal and not engaging enough. After refining the prompt, the output was clearer, more actionable, and better suited for a company-wide email.
+
+## Generated Email
+
+### **Subject:** 🚨 Stay Alert! How to Spot and Report Phishing Emails  
+
+Dear [Company Name] Team,  
+
+Cybercriminals are constantly trying to trick employees into clicking malicious links or sharing sensitive information. These phishing emails can appear legitimate, but a few key signs can help you identify and avoid them.  
+
+#### **🚫 How to Spot a Phishing Email:**  
+- **Urgent or threatening language** (e.g., “Your account will be suspended!”)  
+- **Unfamiliar sender or email address** (e.g., slight misspellings like support@amaz0n.com)  
+- **Suspicious links** – Hover over them before clicking to check the actual URL  
+- **Unexpected attachments** – Could contain malware  
+- **Requests for sensitive information** – IT or HR will never ask for your password via email  
+
+#### **📌 Example of a Phishing Email:**  
+
+**🚩 Subject:** “URGENT: Password Reset Required”  
+**🚩 From:** it-support@yourcompany-secure.com  
+**🚩 Message:**  
+
+*"Your account has been compromised. Click below to reset your password immediately."*  
+**[Click Here to Reset]** (🚨 Fake link)  
+
+#### **✅ What to Do If You Receive a Suspicious Email:**  
+✔ **DO NOT** click on links or open attachments  
+✔ **DO NOT** reply or provide any personal information  
+✔ **DO** report it immediately to IT by forwarding the email to **[IT Support Email]**  
+
+Cybersecurity is a shared responsibility. By staying alert, you help protect yourself and the company. If you have any questions, feel free to reach out to IT at **[IT Support Contact]**.  
+
+**Stay safe,**  
+[Your Name]  
+[Your Role]  
+[Company Name IT Security Team]  
+
+## Tools Used
+
+ChatGPT-4o Model used as the generative AI tested. The promopt and revisions are above 
 
 ---
 # Reflective Blog 5  
