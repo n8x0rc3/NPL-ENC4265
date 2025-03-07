@@ -174,7 +174,52 @@ ChatGPT-4o model used as the generative AI tested. The prompt and revisions are 
 
 ---
 # Reflective Blog 5  
-TBD  
+## Prompt  
+
+Prompt D: Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post.  
+
+## Response  
+
+### **Assessment of PCMag's "How to Build a PC: The Ultimate Beginner's Guide"**  
+
+PCMag's **"How to Build a PC: The Ultimate Beginner's Guide"** serves as a comprehensive resource for individuals venturing into PC assembly. The guide meticulously details each step of the building process, from selecting compatible components to the actual assembly, ensuring readers grasp both the theoretical and practical aspects of PC construction.  
+
+### **Effective Aspects:**  
+
+1. **Structured Layout:**  
+   The guide's logical progression—from component selection to assembly—provides readers with a clear roadmap, minimizing potential confusion.  
+
+2. **Visual Aids:**  
+   Incorporating high-quality images and diagrams enhances comprehension, allowing readers to visualize each step and component accurately.  
+
+3. **Component Compatibility Emphasis:**  
+   The guide underscores the importance of selecting compatible components, a critical aspect for beginners to ensure a functional build.  
+
+4. **Comprehensive Coverage:**  
+   Addressing both hardware assembly and software installation offers a holistic view of the PC building process, preparing readers for all facets of the task.  
+
+### **Ineffective Aspects:**  
+
+1. **Technical Jargon:**  
+   While detailed, the guide occasionally employs technical terminology without sufficient explanation, which might be daunting for absolute beginners.  
+
+2. **Assumed Prior Knowledge:**  
+   Certain sections presume a basic understanding of computer hardware, potentially alienating readers entirely new to the subject.  
+
+3. **Limited Troubleshooting Guidance:**  
+   The guide could benefit from a dedicated section on common issues and troubleshooting tips during assembly and initial boot-up.  
+
+### **Final Thoughts:**  
+
+PCMag's guide stands as a **valuable resource** for aspiring PC builders. By refining explanations of technical terms and incorporating more beginner-friendly language, it could further enhance its accessibility and effectiveness. Adding a troubleshooting section and step-by-step video guides would further improve the experience for readers. If interested you can visit the article <a href="https://www.pcmag.com/how-to/how-to-build-a-pc-the-ultimate-beginners-guide"> here </href> for more information!  
+
+## Tool Used  
+
+ChatGPT-4o was used to help analyze my bullet point summary of the guide.  
+
+## Revisions/Re-Prompting  
+
+A revision was made to ensure the response was concise and structured for readability while maintaining a professional tone.  
 
 ---
 # Reflective Blog 6  
