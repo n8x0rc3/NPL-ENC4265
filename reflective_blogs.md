@@ -211,7 +211,7 @@ PCMag's **"How to Build a PC: The Ultimate Beginner's Guide"** serves as a compr
 
 ### **Final Thoughts:**  
 
-PCMag's guide stands as a **valuable resource** for aspiring PC builders. By refining explanations of technical terms and incorporating more beginner-friendly language, it could further enhance its accessibility and effectiveness. Adding a troubleshooting section and step-by-step video guides would further improve the experience for readers. If interested you can visit the article <a href="https://www.pcmag.com/how-to/how-to-build-a-pc-the-ultimate-beginners-guide"> here </href> for more information!  
+PCMag's guide stands as a **valuable resource** for aspiring PC builders. By refining explanations of technical terms and incorporating more beginner-friendly language, it could further enhance its accessibility and effectiveness. Adding a troubleshooting section and step-by-step video guides would further improve the experience for readers. If interested you can visit the article <a href="https://www.pcmag.com/how-to/how-to-build-a-pc-the-ultimate-beginners-guide"> here </a>  
 
 ## Tool Used  
 
