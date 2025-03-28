@@ -266,10 +266,41 @@ ChatGPT-4o was utilized to structure and refine this reflection. Manual edits we
 Revisions were made to enhance clarity, ensure coherence, and add a more personal perspective to the reflection.
 
 ---
-# Reflective Blog 7  
-TBD  
+# Reflective Blog 7
 
----
+## Prompt
+
+Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
+
+## Response
+
+### **Summary of Suggested Changes**  
+
+When I uploaded my resume to ChatGPT-4o, it analyzed my experience and recommended that I aim for a **Cybersecurity or IT Support internship** role, ideally one that blends networking, system administration, and security fundamentals.  
+
+It suggested several revisions to strengthen my resume, including:
+-  Quantify impact where possible (e.g., “tracked inventory for 6 Division 1 teams” → “managed $50,000+ worth of athletic equipment across 6 D1 teams”).
+-  Use terms like “configured virtualized environments,” “analyzed risk exposure,” or “optimized system resources.”
+-  Align with the job target (e.g., "Seeking a cybersecurity internship at a mission-driven company like SeaWorld Parks and Entertainment to apply my knowledge in network defense and IT support").
+-  Instead of broad claims, incorporate them into bullets (e.g., “Demonstrated leadership by…”).
+-  Mention specific platforms like TryHackMe, TestOut, or tools like Wireshark or VirtualBox.
+
+### **Reflection**  
+
+Using AI to assess and improve my resume helped me see how minor tweaks can significantly improve how I present my experiences. It didn’t drastically change the content but restructured things for clarity, impact, and alignment with technical roles. I realized how important **targeted language and quantifiable results** are in communicating technical experience effectively.
+
+One challenge was ensuring that the resume still felt personal. AI sometimes suggested overly generic phrases, so I had to revise or rephrase to match my voice and experience. It was helpful to use the AI as a guide rather than a writer—providing direction but requiring my judgment to refine the final draft.
+
+Overall, this process made me more confident about tailoring my resume for specific roles and taught me how even small improvements can help convey professional growth and readiness.
+
+## AI Statement
+
+ChatGPT-4o was used to help analyze and revise my resume for clarity, alignment with cybersecurity roles, and stronger technical phrasing. Grammarly and manual edits were also used for proofreading and refinement.
+
+## Revisions/Re-Prompting
+
+I revised the AI-generated resume suggestions to ensure they reflected my actual experience and didn’t overstate technical knowledge. Prompts were rephrased to get more specific advice tailored to internship roles.
+
 # Reflective Blog 8  
 TBD  
 
