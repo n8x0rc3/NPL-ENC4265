@@ -2,6 +2,6 @@
 
 
 # Procedure Video
-[![Watch the video](https://img.youtube.com/vi/5fCpXkUS2IQ/windows.png)](https://youtu.be/5fCpXkUS2IQ)
+<a href="https://www.youtube.com/watch?v=5fCpXkUS2IQ"><img src="windows.png"></img></a>
 
 ### [How to Install Windows](https://youtu.be/5fCpXkUS2IQ)
