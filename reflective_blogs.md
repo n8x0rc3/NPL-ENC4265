@@ -301,8 +301,36 @@ ChatGPT-4o was used to help analyze and revise my resume for clarity, alignment 
 
 I revised the AI-generated resume suggestions to ensure they reflected my actual experience and didn’t overstate technical knowledge. Prompts were rephrased to get more specific advice tailored to internship roles.
 
-# Reflective Blog 8  
-TBD  
+# Reflective Blog 8
 
-## AI DISCLAIMER  
-Some text edited by ChatGPT 4o Model.
+## Prompt
+
+Prompt P: Create your own brief explanation of how to do something. This will give you practice to hone your technical communication skills, and it will also add examples of your work to your portfolio. (No minimum or maximum word count.) This can be done in video format, if you prefer.
+
+## Response
+
+### **How to Create a New User and Set Permissions in Windows**
+
+Managing users and permissions is a core part of system administration. Here's a quick step-by-step guide on how to create a new user and set basic permissions on a Windows machine:
+
+1. **Open Computer Management**
+   - Press `Windows + X` and select **Computer Management**.
+   - Navigate to **Local Users and Groups > Users**.
+
+2. **Create a New User**
+   - Right-click on the **Users** folder and select **New User**.
+   - Fill in the username, password, and configure options like “User must change password at next logon” or “Password never expires.”
+
+3. **Add User to a Group**
+   - After creating the user, double-click their account.
+   - Go to the **Member Of** tab and click **Add**.
+   - To give administrative privileges, add them to the **Administrators** group. For standard users, leave them in the **Users** group.
+
+4. **Set Folder Permissions**
+   - Right-click on the folder you want to restrict or grant access to.
+   - Go to **Properties > Security > Edit**, then select the user and assign **Read**, **Write**, or **Full Control** permissions.
+
+This process is useful in environments where you need to manage access for different team members or restrict data based on roles. It also forms the foundation for understanding more complex permission systems used in enterprise environments and cloud platforms.
+
+## AI Statement
+ChatGPT 4o was used to format the information into markdown
