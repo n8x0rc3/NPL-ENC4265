@@ -2,4 +2,4 @@
 
 # Manual 
 
-Hello, click <a href ="NPL Manual.pdf">  here </a> to learn more about customizing Windows!
+Hello, click <a href ="manual.pdf">  here </a> to learn more about customizing Windows!
